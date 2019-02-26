@@ -1,3 +1,27 @@
+# lils site
+
+## content
+
+projects
+- name
+- published
+- description
+- 1-6
+  - preview img
+  - gallery
+  - short info
+    - heading
+    - text
+    - optional link
+
+legal notice
+- text with links & scroll
+
+contact
+- text
+- link to cv
+- ?
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
